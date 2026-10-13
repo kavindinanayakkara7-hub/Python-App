@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Python Study",
+    "slug": "python-study",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#F3F6FC"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.pythonstudy.app"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
